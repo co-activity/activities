@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/*
+
+# migrations
+*/migrations/*
+!__init__.py
+
+*.pyc
